@@ -1,0 +1,36 @@
+{
+  "exerciseName": "Push Up",
+  "exerciseType": "Reps",
+  "calorieMultiplier": 0.0044,
+  "stages": ["Up", "Down"],
+  "angleVertices": {
+    "7": {
+      "spouseIdx": [9, 5],
+      "angleRanges": [
+        { "min": 150, "max": 180 },
+        { "min": 0, "max": 90 }
+      ]
+    },
+    "8": {
+      "spouseIdx": [10, 6],
+      "angleRanges": [
+        { "min": 150, "max": 180 },
+        { "min": 0, "max": 90 }
+      ]
+    },
+    "13": {
+      "spouseIdx": [11, 15],
+      "angleRanges": [
+        { "min": 150, "max": 180 },
+        { "min": 0, "max": 140 }
+      ]
+    },
+    "14": {
+      "spouseIdx": [12, 16],
+      "angleRanges": [
+        { "min": 150, "max": 180 },
+        { "min": 0, "max": 140 }
+      ]
+    }
+  }
+}

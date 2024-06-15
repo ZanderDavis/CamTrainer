@@ -1,0 +1,80 @@
+{
+  "exerciseName": "Squat",
+  "exerciseType": "Reps",
+  "calorieMultiplier": {
+    "Beginner": 0.0026,
+    "Intermediate": 0.0037,
+    "Expert": 0.0048
+  },
+  "stages": ["Up", "Down"],
+  "angleVertices": {
+    "11": {
+      "spouseIdx": [13, 5],
+      "angleRanges": {
+        "Beginner": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 120 }
+        ],
+        "Intermediate": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 100 }
+        ],
+        "Expert": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 80 }
+        ]
+      }
+    },
+    "12": {
+      "spouseIdx": [14, 6],
+      "angleRanges": {
+        "Beginner": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 120 }
+        ],
+        "Intermediate": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 100 }
+        ],
+        "Expert": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 80 }
+        ]
+      }
+    },
+    "13": {
+      "spouseIdx": [11, 15],
+      "angleRanges": {
+        "Beginner": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 120 }
+        ],
+        "Intermediate": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 100 }
+        ],
+        "Expert": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 80 }
+        ]
+      }
+    },
+    "14": {
+      "spouseIdx": [12, 16],
+      "angleRanges": {
+        "Beginner": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 120 }
+        ],
+        "Intermediate": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 100 }
+        ],
+        "Expert": [
+          { "min": 150, "max": 180 },
+          { "min": 0, "max": 80 }
+        ]
+      }
+    }
+  }
+}
